@@ -1,4 +1,4 @@
-# Luma Front End Engineering Interview
+# Take home Assignment Practice"
 
 ## Interview Task
 
